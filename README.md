@@ -19,7 +19,7 @@ This dataset powers the 99 Names section of **[Fajr: Prayer Alarm & Adhan](https
 - Quran references where each name appears (`surah:ayah`)
 - English meaning + short description
 - French meaning + description
-- **Urdu meaning (اردو)**
+- **Urdu meaning and description (اردو)**
 - Plain UTF-8 JSON — Arabic, Urdu and French text is stored as readable characters, not escaped sequences
 
 ## File
@@ -49,7 +49,8 @@ This dataset powers the 99 Names section of **[Fajr: Prayer Alarm & Adhan](https
         "desc": "Clément envers ses créatures. ..."
       },
       "ur": {
-        "meaning": "نہایت رحم کرنے والا"
+        "meaning": "نہایت رحم کرنے والا",
+        "desc": "وہ ذات جو اپنی تمام مخلوق کے لیے بھلائی اور رحمت چاہتی ہے؛ اس کی رحمت ہر چیز پر چھائی ہوئی ہے۔"
       }
     }
   ]
@@ -64,14 +65,21 @@ This dataset powers the 99 Names section of **[Fajr: Prayer Alarm & Adhan](https
 | `found` | string | Quran references, format `(surah:ayah)` |
 | `en.meaning` / `en.desc` | string | English meaning and description |
 | `fr.meaning` / `fr.desc` | string | French meaning and description |
-| `ur.meaning` | string | Urdu meaning |
+| `ur.meaning` / `ur.desc` | string | Urdu meaning and description |
 
 ## Usage
+
+Direct link to the raw file:
+
+```
+https://raw.githubusercontent.com/anno143/99-Names-of-Allah-Asma-ul-Husna-JSON-Dataset/main/99_Names_Of_Allah.json
+```
+
 
 **JavaScript**
 
 ```js
-const res = await fetch("https://raw.githubusercontent.com/<your-username>/<repo-name>/main/99_Names_Of_Allah.json");
+const res = await fetch("https://raw.githubusercontent.com/anno143/99-Names-of-Allah-Asma-ul-Husna-JSON-Dataset/main/99_Names_Of_Allah.json");
 const { data } = await res.json();
 console.log(data[0].name, data[0].ur.meaning);
 ```
@@ -103,6 +111,7 @@ print(names.first['ur']['meaning']);
 This repo builds on [KabDeveloper/99-Names-Of-Allah](https://github.com/KabDeveloper/99-Names-Of-Allah/blob/main/99_Names_Of_Allah.json). Changes made:
 
 - Added `ur` (Urdu meanings) for all 99 names, sourced from the [Online Tasbih Counter Asma ul Husna PDF](https://onlinetasbihcounter.com/wp-content/uploads/2026/08/asma-ul-husna-99-names-of-allah.pdf)
+- Added `ur.desc` (Urdu descriptions) for all 99 names
 - Updated Arabic names to fully vocalized forms
 - Updated transliterations to a consistent scholarly style
 - Updated English meanings (`en.meaning`)
@@ -124,6 +133,7 @@ Corrections are welcome, especially for translations. Please open an issue or a 
 
 - Base dataset (Arabic, French, descriptions, references): [KabDeveloper/99-Names-Of-Allah](https://github.com/KabDeveloper/99-Names-Of-Allah)
 - Urdu meanings: [Asma ul Husna PDF — Online Tasbih Counter](https://onlinetasbihcounter.com/wp-content/uploads/2026/08/asma-ul-husna-99-names-of-allah.pdf)
+- Urdu descriptions: written for this dataset by Alif Analytics, based on the English descriptions and the common understanding of each name
 - Compilation and updates: [Alif Analytics](https://play.google.com/store/apps/details?id=com.alifanalytics.fajr_app)
 
 ## License
