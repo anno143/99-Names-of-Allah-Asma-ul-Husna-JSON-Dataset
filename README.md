@@ -16,8 +16,8 @@ This dataset powers the 99 Names section of **[Fajr: Prayer Alarm & Adhan](https
 
 - All 99 names with fully vocalized Arabic (with harakat)
 - Scholarly transliteration (e.g. `Ar-Raḥmān`, `Al-Quddūs`)
-- Quran references where each name appears (`surah:ayah`)
-- English meaning + short description
+- Quran references where the name or its root word appears (`surah:ayah`)
+- English meaning + clear, short description
 - French meaning + description
 - **Urdu meaning and description (اردو)**
 - Plain UTF-8 JSON — Arabic, Urdu and French text is stored as readable characters, not escaped sequences
@@ -42,7 +42,7 @@ This dataset powers the 99 Names section of **[Fajr: Prayer Alarm & Adhan](https
       "found": "(1:3)(17:110)",
       "en": {
         "meaning": "The Most Merciful, The Entirely Merciful",
-        "desc": "He who wills goodness and mercy for all His creatures"
+        "desc": "The One who wills goodness and mercy for all of His creation; His mercy encompasses everything."
       },
       "fr": {
         "meaning": "Le Tout-Miséricordieux",
@@ -50,7 +50,7 @@ This dataset powers the 99 Names section of **[Fajr: Prayer Alarm & Adhan](https
       },
       "ur": {
         "meaning": "نہایت رحم کرنے والا",
-        "desc": "وہ ذات جو اپنی تمام مخلوق کے لیے بھلائی اور رحمت چاہتی ہے؛ اس کی رحمت ہر چیز پر چھائی ہوئی ہے۔"
+        "desc": "اپنی تمام مخلوق کے لیے بھلائی اور رحمت چاہنے والا؛ اس کی رحمت ہر چیز پر چھائی ہوئی ہے۔"
       }
     }
   ]
@@ -62,7 +62,7 @@ This dataset powers the 99 Names section of **[Fajr: Prayer Alarm & Adhan](https
 | `number` | int | Position in the list (1–99) |
 | `name` | string | Arabic name, fully vocalized |
 | `transliteration` | string | Latin transliteration |
-| `found` | string | Quran references, format `(surah:ayah)` |
+| `found` | string | Quran references for the name or its root word, format `(surah:ayah)` |
 | `en.meaning` / `en.desc` | string | English meaning and description |
 | `fr.meaning` / `fr.desc` | string | French meaning and description |
 | `ur.meaning` / `ur.desc` | string | Urdu meaning and description |
@@ -115,15 +115,22 @@ This repo builds on [KabDeveloper/99-Names-Of-Allah](https://github.com/KabDevel
 - Updated Arabic names to fully vocalized forms
 - Updated transliterations to a consistent scholarly style
 - Updated English meanings (`en.meaning`)
-- Decoded double-escaped characters (e.g. `é` showing up literally in French text)
+- Decoded double-escaped characters (e.g. `\u00e9` showing up literally in French text)
 - Fixed #50 (Ash-Shahīd), where the English and French descriptions were swapped
 - Fixed #39 (Al-Muqīt), where the French meaning contained a sentence instead of a title
 - Tidied Quran reference formatting (e.g. `(4:15 8)` → `(4:158)`)
 - Trimmed stray whitespace and stray `}` characters
+- Fixed Arabic spelling of #80 (ٱلتَّوَّابُ) and #89 (ٱلْمُغْنِي)
+- Used one style for ʿayn (ʿ) and hamza (ʾ) in transliterations, and doubled consonants (e.g. `Al-ʿAfuww`, `Al-Mudhill`)
+- Corrected French meanings that were wrong or repeated (#20, #21, #59, #63, #64, #69, #71, #72, #78) and typos (#62, #85, #95)
+- Rewrote all 99 English descriptions (`en.desc`) in clear, consistent English, matching the Urdu descriptions
+- Checked every Quran reference against the Quran text ([Tanzil](https://tanzil.net)); replaced references that did not mention the name or its root (#22, #41, #57, #71, #77, #92) and added verses where the name itself appears (#23, #28, #94); references are sorted by surah
 
 ## A Note on the List
 
 The number ninety-nine is established in Sahih al-Bukhari (6410) and Sahih Muslim (2677). The commonly printed enumerated list traces to Jami' at-Tirmidhi (3507), and other scholars have compiled slightly different lists. Meanings here are translations to aid understanding and are not a substitute for tafsir or scholarly explanation.
+
+Every reference in `found` has been checked: each verse contains either the name itself or a word from the same root used for Allah's action (e.g. يَقْبِضُ for Al-Qābiḍ). Some names (e.g. Al-Qābiḍ, Al-Khāfiḍ, Al-Jalīl, Aṣ-Ṣabūr) do not occur word for word in the Quran and come from the hadith list, so their references point to the root.
 
 ## Contributing
 
@@ -131,9 +138,10 @@ Corrections are welcome, especially for translations. Please open an issue or a 
 
 ## Credits
 
-- Base dataset (Arabic, French, descriptions, references): [KabDeveloper/99-Names-Of-Allah](https://github.com/KabDeveloper/99-Names-Of-Allah)
+- Base dataset (French text and original references): [KabDeveloper/99-Names-Of-Allah](https://github.com/KabDeveloper/99-Names-Of-Allah)
 - Urdu meanings: [Asma ul Husna PDF — Online Tasbih Counter](https://onlinetasbihcounter.com/wp-content/uploads/2026/08/asma-ul-husna-99-names-of-allah.pdf)
-- Urdu descriptions: written for this dataset by Alif Analytics, based on the English descriptions and the common understanding of each name
+- English and Urdu descriptions: written for this dataset by Alif Analytics, based on the common understanding of each name
+- Quran text used to verify references: [Tanzil](https://tanzil.net)
 - Compilation and updates: [Alif Analytics](https://play.google.com/store/apps/details?id=com.alifanalytics.fajr_app)
 
 ## License

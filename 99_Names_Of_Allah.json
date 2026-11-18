@@ -9,7 +9,7 @@
       "found": "(1:3)(17:110)",
       "en": {
         "meaning": "The Most Merciful, The Entirely Merciful",
-        "desc": "He who wills goodness and mercy for all His creatures"
+        "desc": "The One who wills goodness and mercy for all of His creation; His mercy encompasses everything."
       },
       "fr": {
         "meaning": "Le Tout-Miséricordieux",
@@ -27,7 +27,7 @@
       "found": "(2:163)(3:31)(4:100)(5:3)",
       "en": {
         "meaning": "The Especially Merciful",
-        "desc": "He who acts with extreme kindness"
+        "desc": "The One who is especially merciful and kind to His servants, above all to the believers."
       },
       "fr": {
         "meaning": "Le Très-Miséricordieux",
@@ -45,7 +45,7 @@
       "found": "(20:114)(23:116)(59:23)(62:1)",
       "en": {
         "meaning": "The King and Owner of Dominion",
-        "desc": "The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection"
+        "desc": "The true King, whose sovereignty is complete and free from any flaw; everything belongs to Him."
       },
       "fr": {
         "meaning": "Le Souverain",
@@ -63,7 +63,7 @@
       "found": "(59:23)(62:1)",
       "en": {
         "meaning": "The Absolutely Pure and Perfect",
-        "desc": "The One who is pure from any imperfection and clear from children and adversaries"
+        "desc": "The One who is pure and free from every fault, imperfection, offspring and partner."
       },
       "fr": {
         "meaning": "Le Pur",
@@ -81,7 +81,7 @@
       "found": "(59:23)",
       "en": {
         "meaning": "The Source of Peace, The Flawless",
-        "desc": "The One who provides peace, calm and serenity. By citing this name, we declare peace for ourselves and for those around us."
+        "desc": "The One who grants peace, calm and security, and who is Himself free from every defect."
       },
       "fr": {
         "meaning": "La Paix",
@@ -95,11 +95,11 @@
     {
       "number": 6,
       "name": "ٱلْمُؤْمِنُ",
-      "transliteration": "Al-Mu’min",
+      "transliteration": "Al-Muʾmin",
       "found": "(59:23)",
       "en": {
         "meaning": "The Granter of Security and Faith",
-        "desc": "This name is mysterious even for Muslims because \"Al-Mu'min\" comes from the name \"Al-iman\" which means to believe, from where comes the name \"Al-Mu'minoune\" which means believers, it is the name the Quran uses for people who believe in 6 things: the oneness of Allah, the existence of angels, holy books (Torah, Gospel and Psalms (Zabor) unmodified and the Quran), the prophets, the last day (the day of judgment) and fate its evil and its good. The exact meaning of this name is very difficult to pin down in its original meaning but can be understood from a deeper and more mystical point of view."
+        "desc": "The One who grants safety and places faith in hearts, and who fulfils His promises."
       },
       "fr": {
         "meaning": "La Sauvegarde",
@@ -117,7 +117,7 @@
       "found": "(59:23)",
       "en": {
         "meaning": "The Guardian, The Witness, The Overseer",
-        "desc": "Whoever dominates His creation and by His omnipotence in all aspects, no state or aspect in this world or the other escapes His will."
+        "desc": "The One who watches over and guards His creation; nothing in this world or the Hereafter is outside His oversight and will."
       },
       "fr": {
         "meaning": "Le Préservateur",
@@ -131,11 +131,11 @@
     {
       "number": 8,
       "name": "ٱلْعَزِيزُ",
-      "transliteration": "Al-‘Azīz",
+      "transliteration": "Al-ʿAzīz",
       "found": "(3:6)(4:158)(9:40)(48:7)",
       "en": {
         "meaning": "The Almighty, The All-Powerful, The Invincible, The Honorable",
-        "desc": "The Glorious by His supremacy and His greatness, Al-'Aziz means in a sense the One who is dear and precious in the eyes of His creatures. He is not the servant of any creature, and no creature dictates to Him what to do."
+        "desc": "The Almighty, whom no one can overcome; He needs no one, and no one can command Him."
       },
       "fr": {
         "meaning": "Le Tout Puissant",
@@ -153,7 +153,7 @@
       "found": "(59:23)",
       "en": {
         "meaning": "The Compeller, The Restorer",
-        "desc": "The grandiose, the ultimate powerful by His greatness and His unlimited strength. When He destroys the oppressors (unjust and sinners) He applies His sentence with righteousness."
+        "desc": "The One who carries out His will over all things through His greatness and limitless power; He mends what is broken and justly punishes the oppressors."
       },
       "fr": {
         "meaning": "L'Imposant",
@@ -171,7 +171,7 @@
       "found": "(59:23)",
       "en": {
         "meaning": "The Supreme in Glory, The Rightfully Proud",
-        "desc": "He who is superior to His creatures, no creature has the right to claim greatness."
+        "desc": "The One who is above all His creation; greatness belongs to Him alone, and no creature has the right to claim it."
       },
       "fr": {
         "meaning": "Le Suprême, Le Majestueux",
@@ -189,7 +189,7 @@
       "found": "(6:102)(13:16)(39:62)(40:62)(59:24)",
       "en": {
         "meaning": "The Creator, The Maker",
-        "desc": "The Creator of all existences, living or dead, mobile or frozen."
+        "desc": "The One who brings all things into existence, living or lifeless, moving or still."
       },
       "fr": {
         "meaning": "Le Créateur",
@@ -207,7 +207,7 @@
       "found": "(59:24)",
       "en": {
         "meaning": "The Originator, The Inventor",
-        "desc": "He who lifts His creation above all faults or imperfections."
+        "desc": "The One who brings creation into being without any earlier model, and makes it free from fault and imperfection."
       },
       "fr": {
         "meaning": "Le Producteur",
@@ -225,7 +225,7 @@
       "found": "(59:24)",
       "en": {
         "meaning": "The Fashioner, The Shaper",
-        "desc": "The One who gives the look and the appearance to each creation from the inside as well as from the outside. In lost Arabic, literally, this word means sculptor and, in modern Arabic, literally means designer."
+        "desc": "The One who gives every creature its form and appearance, inside and out."
       },
       "fr": {
         "meaning": "Le Formateur",
@@ -243,7 +243,7 @@
       "found": "(20:82)(38:66)(39:5)(40:42)(71:10)",
       "en": {
         "meaning": "The Constant Forgiver, The Great Forgiver",
-        "desc": "Is the One who forgives what He wants to whom He wants."
+        "desc": "The One who forgives again and again; He forgives whatever He wills, for whomever He wills."
       },
       "fr": {
         "meaning": "L'Infini Pardonneur",
@@ -261,7 +261,7 @@
       "found": "(13:16)(14:48)(38:65)(39:4)(40:16)",
       "en": {
         "meaning": "The Subduer, The Ever-Dominating",
-        "desc": "Is the One who is almighty to submit all creation to His will."
+        "desc": "The One who prevails over all things and keeps all creation subject to His will."
       },
       "fr": {
         "meaning": "Le Tout Dominateur",
@@ -279,7 +279,7 @@
       "found": "(3:8)(38:9)(38:35)",
       "en": {
         "meaning": "The Giver of Gifts, The Bestower",
-        "desc": "Is the One who gives immensely without receiving anything in return"
+        "desc": "The One who gives generously and without measure, without asking anything in return."
       },
       "fr": {
         "meaning": "Le Très Généreux",
@@ -297,7 +297,7 @@
       "found": "(51:58)",
       "en": {
         "meaning": "The Ever-Providing, The Constant Provider",
-        "desc": "Is the One who makes distribute to every creature what it needs."
+        "desc": "The One who provides every creature with the sustenance it needs."
       },
       "fr": {
         "meaning": "Le Grand Pourvoyeur",
@@ -315,7 +315,7 @@
       "found": "(34:26)",
       "en": {
         "meaning": "The Opener, The Judge",
-        "desc": "Is He Who alone knows the keys to the future and the unknown, by His knowledge and by His wisdom. This name is often associated with the following name \"Al-‘Alīm\"."
+        "desc": "The One who opens the doors of mercy and provision, and judges between His servants with truth; the keys of the unseen are with Him alone."
       },
       "fr": {
         "meaning": "Le Grand Juge",
@@ -333,7 +333,7 @@
       "found": "(2:158)(3:92)(4:35)(24:41)(33:40)",
       "en": {
         "meaning": "The All-Knowing, The Omniscient",
-        "desc": "The One from whom nothing can hide, for He knows everything and is aware of everything."
+        "desc": "The One who knows everything; nothing is hidden from Him."
       },
       "fr": {
         "meaning": "L'Omniscient",
@@ -348,13 +348,13 @@
       "number": 20,
       "name": "ٱلْقَابِضُ",
       "transliteration": "Al-Qābiḍ",
-      "found": "(2:245)",
+      "found": "(2:245)(39:67)",
       "en": {
         "meaning": "The Withholder, The Restrainer",
-        "desc": "Is the One who restricts His good according to wisdom."
+        "desc": "The One who withholds or restricts provision and good, according to His wisdom."
       },
       "fr": {
-        "meaning": "Celui Qui saisit",
+        "meaning": "Celui qui restreint",
         "desc": "Est Celui qui restreint Son bien conformément à une sagesse."
       },
       "ur": {
@@ -366,13 +366,13 @@
       "number": 21,
       "name": "ٱلْبَاسِطُ",
       "transliteration": "Al-Bāsiṭ",
-      "found": "(2:245)",
+      "found": "(2:245)(13:26)",
       "en": {
         "meaning": "The Extender, The Expander",
-        "desc": "Is the One who frees, increases and multiplies His good according to wisdom."
+        "desc": "The One who extends and increases provision and good, according to His wisdom."
       },
       "fr": {
-        "meaning": "Le Généreux",
+        "meaning": "Celui qui étend ses dons",
         "desc": "Est Celui qui libère, augmente et multiplie son bien conformément à une sagesse."
       },
       "ur": {
@@ -384,10 +384,10 @@
       "number": 22,
       "name": "ٱلْخَافِضُ",
       "transliteration": "Al-Khāfiḍ",
-      "found": "(95:5)",
+      "found": "(56:3)(95:5)",
       "en": {
         "meaning": "The Reducer, The Abaser",
-        "desc": "Is the One who destines the oppressors and the proud to demeanor and chastisement."
+        "desc": "The One who lowers the oppressors and the arrogant."
       },
       "fr": {
         "meaning": "Celui qui abaisse",
@@ -402,10 +402,10 @@
       "number": 23,
       "name": "ٱلرَّافِعُ",
       "transliteration": "Ar-Rāfiʿ",
-      "found": "(58:11)(6:83)",
+      "found": "(3:55)(6:83)(58:11)",
       "en": {
         "meaning": "The Exalter, The Elevator",
-        "desc": "The Breeder in the sense of raising, the One who elevates the honor, the status and the prestige of a being in this lower world and in the hereafter."
+        "desc": "The One who raises whomever He wills in honour, rank and status, in this world and the Hereafter."
       },
       "fr": {
         "meaning": "L'Éleveur",
@@ -423,7 +423,7 @@
       "found": "(3:26)",
       "en": {
         "meaning": "The Honourer, The Bestower of Honor",
-        "desc": "One who offers honor and precious value."
+        "desc": "The One who grants honour and esteem to whomever He wills."
       },
       "fr": {
         "meaning": "Celui qui rend puissant",
@@ -437,11 +437,11 @@
     {
       "number": 25,
       "name": "ٱلْمُذِلُّ",
-      "transliteration": "Al-Mudhil",
+      "transliteration": "Al-Mudhill",
       "found": "(3:26)",
       "en": {
         "meaning": "The Dishonourer, The Humiliator",
-        "desc": "Is the One who can humiliate and devalue any valiant."
+        "desc": "The One who humbles whomever He wills, however powerful they may be."
       },
       "fr": {
         "meaning": "Celui qui humilie les fiers",
@@ -459,7 +459,7 @@
       "found": "(2:127)(2:256)(8:17)(49:1)",
       "en": {
         "meaning": "The All-Hearing",
-        "desc": "One who hears any noise or sound in His kingdom emanating from any creature and also One who listens to the invocations of His creatures to respond to their invocations."
+        "desc": "The One who hears every sound, and hears and answers the supplications of His servants."
       },
       "fr": {
         "meaning": "L'Audient",
@@ -477,7 +477,7 @@
       "found": "(4:58)(17:1)(42:11)(42:27)",
       "en": {
         "meaning": "The All-Seeing",
-        "desc": "Is the One from whom nothing that exists or comes into existence can escape without the slightest use of an eye, instrument or organ."
+        "desc": "The One who sees all things; nothing that exists escapes His sight, and He needs no eye or instrument to see."
       },
       "fr": {
         "meaning": "Le Clairvoyant",
@@ -492,10 +492,10 @@
       "number": 28,
       "name": "ٱلْحَكَمُ",
       "transliteration": "Al-Ḥakam",
-      "found": "(22:69)",
+      "found": "(6:114)(22:69)",
       "en": {
         "meaning": "The Judge, The Giver of Justice",
-        "desc": "He is the One who judges and decides between creatures here below and in the hereafter and He who ensures equity between the creatures and no one else will and will not be able to decide between them and judge them; and the Judgment in the hereafter will be perfectly just and appropriate."
+        "desc": "The One who judges between His creation in this world and the Hereafter; His judgement is perfectly just."
       },
       "fr": {
         "meaning": "L'Arbitre",
@@ -509,11 +509,11 @@
     {
       "number": 29,
       "name": "ٱلْعَدْلُ",
-      "transliteration": "Al-‘Adl",
+      "transliteration": "Al-ʿAdl",
       "found": "(6:115)",
       "en": {
         "meaning": "The Utterly Just",
-        "desc": "Is the One who is free from all forms of injustice and / or oppression."
+        "desc": "The One who is perfectly just and free from every kind of injustice and oppression."
       },
       "fr": {
         "meaning": "Le Juste",
@@ -531,7 +531,7 @@
       "found": "(6:103)(22:63)(31:16)(33:34)",
       "en": {
         "meaning": "The Most Gentle, The Subtle One",
-        "desc": "Is the One who grants His creatures His gentleness and His benevolence."
+        "desc": "The One who knows the finest details of all things, and who is gentle and kind to His creation."
       },
       "fr": {
         "meaning": "Le Doux",
@@ -549,7 +549,7 @@
       "found": "(6:18)(17:30)(49:13)(59:18)",
       "en": {
         "meaning": "The All-Aware, The All-Acquainted",
-        "desc": "He is the One from whom cannot be hidden the reality of everything that exists, that is to say the truth of things; no detail escapes Him, neither the thing as a whole, nor each of its parts; and to claim to be able to hide things from the One who creates everything is a delusion and a disbelief."
+        "desc": "The One who is fully aware of the reality of all things; no detail, great or small, is hidden from Him."
       },
       "fr": {
         "meaning": "Le Bien-Informé",
@@ -567,7 +567,7 @@
       "found": "(2:235)(17:44)(22:59)(35:41)",
       "en": {
         "meaning": "The Most Forbearing",
-        "desc": "Is the One whose patience towards the disbeliefs of sinners exceeds all imagination (it is possible that forgiveness will be granted to them)."
+        "desc": "The One who is most forbearing; He does not hasten to punish the sinners but gives them time to repent."
       },
       "fr": {
         "meaning": "Le Très Doux",
@@ -585,7 +585,7 @@
       "found": "(2:255)(42:4)(56:96)",
       "en": {
         "meaning": "The Magnificent, The Supreme",
-        "desc": "This name is difficult to translate because it includes several French words that do not share the same spiritual meaning, but it can be approached as follows: \"Al-Adhīm\" He who is Gigantic Majestic and Fantastically Grandiose far from any bodily or material imperfection"
+        "desc": "The One whose greatness and majesty are beyond all imagination, and free from any bodily or material imperfection."
       },
       "fr": {
         "meaning": "L'Immense",
@@ -603,7 +603,7 @@
       "found": "(2:173)(8:69)(16:110)(41:32)",
       "en": {
         "meaning": "The Forgiving, The Exceedingly Forgiving",
-        "desc": "Is the One who forgives immensely over and over again."
+        "desc": "The One who forgives abundantly, again and again."
       },
       "fr": {
         "meaning": "Le Très Pardonneur",
@@ -621,7 +621,7 @@
       "found": "(35:30)(35:34)(42:23)(64:17)",
       "en": {
         "meaning": "The Most Appreciative",
-        "desc": "Is the One who shows His gratitude for worshipers, however incredibly easy to perform."
+        "desc": "The One who appreciates even the smallest good deed and rewards it many times over."
       },
       "fr": {
         "meaning": "Le Très-Reconnaissant",
@@ -635,11 +635,11 @@
     {
       "number": 36,
       "name": "ٱلْعَلِيُّ",
-      "transliteration": "Al-ʿAlī",
+      "transliteration": "Al-ʿAliyy",
       "found": "(4:34)(31:30)(42:4)(42:51)",
       "en": {
         "meaning": "The Most High, The Exalted",
-        "desc": "Is the One who is above all that He created perfectly and unimaginably."
+        "desc": "The Most High, exalted above all of His creation."
       },
       "fr": {
         "meaning": "Le Très Haut",
@@ -657,7 +657,7 @@
       "found": "(13:9)(22:62)(31:30)",
       "en": {
         "meaning": "The Greatest, The Most Grand",
-        "desc": "The Great: One who is greater than His creation, a greatness that only He knows."
+        "desc": "The Greatest, whose greatness is known fully to no one but Him."
       },
       "fr": {
         "meaning": "Le Très Grand",
@@ -675,7 +675,7 @@
       "found": "(11:57)(34:21)(42:6)",
       "en": {
         "meaning": "The Preserver, The All-Heedful and All-Protecting",
-        "desc": "Is the One who protects and preserves His good."
+        "desc": "The One who protects and preserves all things, and keeps a record of every deed."
       },
       "fr": {
         "meaning": "Le Gardien",
@@ -693,7 +693,7 @@
       "found": "(4:85)",
       "en": {
         "meaning": "The Nourisher, The All-Powerful Maintainer",
-        "desc": "this word is among the lost words of the ancient Arabic language; very difficult to translate even in modern Arabic. It would mean: Is the One who leaves no detail when He judges, even the most trivial."
+        "desc": "The One who provides every creature with its nourishment, and who has power and watch over all things."
       },
       "fr": {
         "meaning": "Le Nourricier",
@@ -711,7 +711,7 @@
       "found": "(4:6)(4:86)(33:39)",
       "en": {
         "meaning": "The Reckoner",
-        "desc": "He is the One who will count all the facts of His creatures without forgetting or error."
+        "desc": "The One who takes account of every deed of His creation without forgetting or error, and who is sufficient for His servants."
       },
       "fr": {
         "meaning": "Celui qui règle les comptes",
@@ -726,10 +726,10 @@
       "number": 41,
       "name": "ٱلْجَلِيلُ",
       "transliteration": "Al-Jalīl",
-      "found": "(55:27)(39:14)(7:143)",
+      "found": "(55:27)(55:78)",
       "en": {
         "meaning": "The Majestic",
-        "desc": "Is the One who is perfectly exempt from being compared to His creatures or from resembling them."
+        "desc": "The One who possesses majesty and glory, and is far above any resemblance to His creation."
       },
       "fr": {
         "meaning": "Le Sublime",
@@ -747,7 +747,7 @@
       "found": "(27:40)(82:6)",
       "en": {
         "meaning": "The Most Generous, The Most Noble",
-        "desc": "Is the One who flooded His creation with His generosity."
+        "desc": "The Most Generous and Noble, who has filled His creation with His generosity."
       },
       "fr": {
         "meaning": "Le Généreux",
@@ -765,7 +765,7 @@
       "found": "(4:1)(5:117)",
       "en": {
         "meaning": "The Watchful, The All-Watchful",
-        "desc": "Is the One who observes and beholds all that He has created (and the actions of creatures are also creations)."
+        "desc": "The One who watches over all His creation and their deeds at every moment."
       },
       "fr": {
         "meaning": "L'Observateur",
@@ -783,7 +783,7 @@
       "found": "(11:61)",
       "en": {
         "meaning": "The Responsive, The Answerer",
-        "desc": "Is the One who answers the invocations of His creatures if He wills and to whom He wills."
+        "desc": "The One who hears and answers the supplications of His servants."
       },
       "fr": {
         "meaning": "Celui qui exauce les prières",
@@ -801,7 +801,7 @@
       "found": "(2:268)(3:73)(5:54)",
       "en": {
         "meaning": "The All-Encompassing, the Boundless",
-        "desc": "This name in Arabic means: immensely wide, but to describe Allah it is understood that He has filled every void and has contained all things in a way that only He knows."
+        "desc": "The All-Encompassing, whose knowledge, mercy and generosity extend to everything."
       },
       "fr": {
         "meaning": "Le Vaste",
@@ -819,7 +819,7 @@
       "found": "(31:27)(46:2)(57:1)(66:2)",
       "en": {
         "meaning": "The All-Wise",
-        "desc": "He whose Wisdom has dazzled, dazzles and will dazzle any conscious and intelligent mind."
+        "desc": "The One whose wisdom is perfect; everything He does and decrees is based on wisdom."
       },
       "fr": {
         "meaning": "Le Sage",
@@ -837,7 +837,7 @@
       "found": "(11:90)(85:14)",
       "en": {
         "meaning": "The Most Loving",
-        "desc": "This word in Arabic means: The One who draws near to His beloved by mercy, pity and beneficence, but when one reads this name in the Quran, one feels each time different meanings which are difficult to translate into words. We can try to translate it: The One who draws near to His servants out of pity although they move away from Him and do not glorify Him."
+        "desc": "The One who loves His servants and draws near to them with mercy, even when they turn away from Him."
       },
       "fr": {
         "meaning": "Le Tout affectueux",
@@ -855,7 +855,7 @@
       "found": "(11:73)",
       "en": {
         "meaning": "The All-Glorious, The Ever-Majestic",
-        "desc": "Is the One who is glorified in the infinitely past, present and eternal."
+        "desc": "The One who is most glorious and noble, who has always been praised and always will be."
       },
       "fr": {
         "meaning": "Le Tout Glorieux",
@@ -870,10 +870,10 @@
       "number": 49,
       "name": "ٱلْبَاعِثُ",
       "transliteration": "Al-Bāʿith",
-      "found": "(22:7)",
+      "found": "(22:7)(58:6)",
       "en": {
         "meaning": "The Infuser of New Life, The Resurrector",
-        "desc": "Is the One who raises the dead and deploys life in whatever He wants, be they men, animals or simply earth."
+        "desc": "The One who raises the dead to life again, and gives life to whatever He wills."
       },
       "fr": {
         "meaning": "Celui qui ressuscite",
@@ -891,7 +891,7 @@
       "found": "(4:166)(22:17)(41:53)(48:28)",
       "en": {
         "meaning": "The All-Witnessing",
-        "desc": "The Witness: Allah is the ultimate and perfect witness to all that has happened in His kingdom, with clear and blatant evidence, perfectly blameless."
+        "desc": "The One who witnesses all things; He is the perfect witness to everything that happens in His kingdom."
       },
       "fr": {
         "meaning": "Le Grand Témoin",
@@ -909,7 +909,7 @@
       "found": "(6:62)(22:6)(23:116)(24:25)",
       "en": {
         "meaning": "The Absolute Truth",
-        "desc": "Is the One who holds the absolute Truth."
+        "desc": "The One who is the Truth Himself; His existence is true and every word of His is true."
       },
       "fr": {
         "meaning": "Le Véridique",
@@ -927,7 +927,7 @@
       "found": "(3:173)(4:171)(28:28)(73:9)",
       "en": {
         "meaning": "The Trustee, The Disposer of Affairs",
-        "desc": "Is the One who guarantees the sustenance of creatures and the One from whom nothing of their every state can be concealed"
+        "desc": "The One who manages all affairs, guarantees the provision of His creation, and in whom all can trust."
       },
       "fr": {
         "meaning": "Le Tuteur",
@@ -945,7 +945,7 @@
       "found": "(22:40)(22:74)(42:19)(57:25)",
       "en": {
         "meaning": "The All-Strong",
-        "desc": "The Mighty: Allah is the most powerful, the strongest, His strength has no limit and is not described with definitions of physical strength."
+        "desc": "The One whose strength is limitless."
       },
       "fr": {
         "meaning": "Le Fort",
@@ -963,7 +963,7 @@
       "found": "(51:58)",
       "en": {
         "meaning": "The Firm, The Steadfast",
-        "desc": "The Enduring: An endurance worthy of Him, unlimited, indefatigable, and which is not marred by any weakness, without pause, without interruption and which no factor can attenuate."
+        "desc": "The One whose strength is firm and never weakens, tires or diminishes."
       },
       "fr": {
         "meaning": "Le Robuste",
@@ -981,7 +981,7 @@
       "found": "(4:45)(7:196)(42:28)(45:19)",
       "en": {
         "meaning": "The Protector, The Guardian",
-        "desc": "Is the One who preserves the believing servants, so the prophets and those who follow them are those who are the \"preserved people\" in the sense that they have been guided to the obligatory thanks to Him who makes them exist, that is to say, with regard to Allah"
+        "desc": "The Protector and Helper of the believers, who guides them and takes care of them."
       },
       "fr": {
         "meaning": "Le Protecteur",
@@ -999,7 +999,7 @@
       "found": "(14:8)(31:12)(31:26)(41:42)",
       "en": {
         "meaning": "The Praiseworthy, The Most Praised",
-        "desc": "Is the One who deserves the thanksgiving, the glorification and the song of praise more than any other"
+        "desc": "The One who deserves all praise, and is most worthy of glorification and thanks."
       },
       "fr": {
         "meaning": "Le Loué",
@@ -1014,10 +1014,10 @@
       "number": 57,
       "name": "ٱلْمُحْصِي",
       "transliteration": "Al-Muḥṣī",
-      "found": "(72:28)(78:29)(82:10-12)",
+      "found": "(19:94)(36:12)(58:6)(72:28)(78:29)",
       "en": {
         "meaning": "The All-Enumerating, The Counter",
-        "desc": "Literally translated as the counter but means the One who counts every creature, every act, every speck of dust in His kingdom, and from whose knowledge nothing escapes"
+        "desc": "The One who counts every creature, every deed and every particle; nothing is outside His reckoning."
       },
       "fr": {
         "meaning": "Celui qui connait les comptes",
@@ -1035,7 +1035,7 @@
       "found": "(10:34)(27:64)(29:19)(85:13)",
       "en": {
         "meaning": "The Originator, The Initiator",
-        "desc": "Is the One who gives a beginning to what does not exist without a beginning, without a model, that is to say, the One who creates creatures"
+        "desc": "The One who creates for the first time, without any earlier model."
       },
       "fr": {
         "meaning": "L'Auteur",
@@ -1053,10 +1053,10 @@
       "found": "(10:34)(27:64)(29:19)(85:13)",
       "en": {
         "meaning": "The Restorer, The Reviver",
-        "desc": "Is the One who brings the living back to death after life and the One who brings the dead back to life after death"
+        "desc": "The One who brings creation back to life after death."
       },
       "fr": {
-        "meaning": "Celui qui fait rentrer dans le néant",
+        "meaning": "Celui qui fait revivre",
         "desc": "Est Celui qui ramène les vivants vers la mort après la vie et Celui qui ramène les morts à la vie après leur mort"
       },
       "ur": {
@@ -1071,7 +1071,7 @@
       "found": "(7:158)(15:23)(30:50)(57:2)",
       "en": {
         "meaning": "The Giver of Life",
-        "desc": "Is the One who gives life to a mixture of maniyy, that is to say of seminal liquid, devoid of soul and makes him a living being and the One who gives life to the bodies of humans, jinns and angels by reuniting them with their souls during the resurrection"
+        "desc": "The One who gives life, and who will bring the bodies back to life on the Day of Resurrection."
       },
       "fr": {
         "meaning": "Celui qui donne vie",
@@ -1089,7 +1089,7 @@
       "found": "(3:156)(7:158)(15:23)(57:2)",
       "en": {
         "meaning": "The Taker of Life, The Causer of Death",
-        "desc": "He is the One who kills living beings and the One who cancels out the power of the powerful of this world by death"
+        "desc": "The One who causes death; by death He ends the power of the powerful of this world."
       },
       "fr": {
         "meaning": "Celui qui donne la mort",
@@ -1107,10 +1107,10 @@
       "found": "(2:255)(3:2)(25:58)(40:65)",
       "en": {
         "meaning": "The Ever-Living",
-        "desc": "The Living One: Is the One who does not come into existence and yet exists, and the One who possesses a hayah and this attribute is not a life as is the hayah of creatures made up of a combination of soul, flesh and of blood Imam At-Tahawiyy said in his treatise on belief that \"he who attributes to Allah an attribute in a sense which is among those which can be attributed to human beings is disbeliever\""
+        "desc": "The Ever-Living, whose life has no beginning and no end, and is not like the life of His creation."
       },
       "fr": {
-        "meaning": "Le vivant",
+        "meaning": "Le Vivant",
         "desc": "Le Vivant : Est Celui qui n’entre pas en existence et pourtant existe, et Celui qui possède une hayah et cet attribut n’est pas une vie comme l’est la hayah des créatures constituée d’une combinaison d’âme, de chair et de sang l’Imam At-Tahawiyy a dit dans son traité de croyance que « celui qui attribue à Allah un attribut dans un sens qui compte parmi ceux que l’on peut attribuer aux êtres humains est mécréant »"
       },
       "ur": {
@@ -1125,10 +1125,10 @@
       "found": "(2:255)(3:2)(20:111)",
       "en": {
         "meaning": "The Sustainer, The Self-Subsisting",
-        "desc": "Is the One who exists, is eternal and does not change and the One who is not affected by non-existence or annihilation and is in no way affected by controlling and creating the acts of human beings"
+        "desc": "The One who exists by Himself and sustains all things; He is subject neither to perishing nor to change."
       },
       "fr": {
-        "meaning": "La Source",
+        "meaning": "Celui qui subsiste par Lui-même",
         "desc": "Est Celui qui existe, est éternel et ne change pas et Celui qui n’est pas atteint par l’inexistence ou l’anéantissement et n’est nullement affecté par le fait de contrôler et de créer les actes des êtres humains"
       },
       "ur": {
@@ -1140,13 +1140,13 @@
       "number": 64,
       "name": "ٱلْوَاجِدُ",
       "transliteration": "Al-Wājid",
-      "found": "(38:44)",
+      "found": "(38:44)(93:7)",
       "en": {
         "meaning": "The Ever-Wealthy, The Self-Sufficient",
-        "desc": "Is the One who does not need anything and is not reached or concerned with want, lack or need"
+        "desc": "The One who finds whatever He wills; He needs nothing and lacks nothing."
       },
       "fr": {
-        "meaning": "Celui qui existe",
+        "meaning": "Celui qui ne manque de rien",
         "desc": "Est Celui qui n’a besoin de rien et n’est pas atteint ni concerné par le besoin, le manque ou la nécessité"
       },
       "ur": {
@@ -1158,10 +1158,10 @@
       "number": 65,
       "name": "ٱلْمَاجِدُ",
       "transliteration": "Al-Mājid",
-      "found": "(11:73)",
+      "found": "(11:73)(85:15)",
       "en": {
         "meaning": "The Noble, The Generous",
-        "desc": "Is the One who is better than any other and the One who bestows innumerable benefits very widely and without compensation"
+        "desc": "The Noble and Glorious, who grants countless blessings without asking anything in return."
       },
       "fr": {
         "meaning": "L'Illustre",
@@ -1179,7 +1179,7 @@
       "found": "(2:163)(5:73)(9:31)(18:110)",
       "en": {
         "meaning": "The One, The Indivisible",
-        "desc": "The Unique: Is the One who has no alter ego, whether in His Being, in His Act, or in His Attributes. Nothing is like Him"
+        "desc": "The One who is unique, with no partner or equal in His essence, His attributes or His actions."
       },
       "fr": {
         "meaning": "L'Unique",
@@ -1197,7 +1197,7 @@
       "found": "(112:1)",
       "en": {
         "meaning": "The Unique, The Only One",
-        "desc": "The One: Is He Who has uniqueness as an attribute"
+        "desc": "The One who is alone and incomparable, unique in His oneness."
       },
       "fr": {
         "meaning": "L'Un",
@@ -1215,7 +1215,7 @@
       "found": "(112:2)",
       "en": {
         "meaning": "The Self-Subsisting, The One Upon Whom All Depend",
-        "desc": "Is the One to whom we can rely for any business and who can be called upon for all our needs; One who has no children or parents, neither like nor equivalent, according to Al-Hakim's explanation; The One who needs nothing and the One who everything needs, in order to exist, etc."
+        "desc": "The One who needs no one, while everything depends on Him; He neither begets nor was begotten."
       },
       "fr": {
         "meaning": "L'Absolu",
@@ -1233,10 +1233,10 @@
       "found": "(6:65)(36:81)(46:33)(75:40)",
       "en": {
         "meaning": "The Omnipotent, The All-Able",
-        "desc": "Is the One who is unaffected by weakness, the One whose power is absolute and dominates all creatures and the One whom absolutely nothing can weaken"
+        "desc": "The One whose power is complete; no weakness touches Him and nothing can render Him unable."
       },
       "fr": {
-        "meaning": "Le Déterminant",
+        "meaning": "Le Tout-Capable",
         "desc": "Est Celui qui n’est pas atteint par la faiblesse, Celui dont la puissance est absolue et domine la totalité des créatures et Celui qu'absolument rien ne peut affaiblir"
       },
       "ur": {
@@ -1251,7 +1251,7 @@
       "found": "(18:45)(54:42)(54:55)",
       "en": {
         "meaning": "The All-Powerful, The Dominant",
-        "desc": "Is the One who is mighty over all things and the One whose capacities are absolutely limitless"
+        "desc": "The One who has full control over all things, whose power has no limit."
       },
       "fr": {
         "meaning": "Le Très Puissant",
@@ -1266,13 +1266,13 @@
       "number": 71,
       "name": "ٱلْمُقَدِّمُ",
       "transliteration": "Al-Muqaddim",
-      "found": "(16:61)(17:34)",
+      "found": "(16:61)(50:28)",
       "en": {
         "meaning": "The Expediter, The Promoter",
-        "desc": "Is He who is free from the characteristics of creatures and better than any creature; He who fixes the speed of events, accelerates certain things in the eyes of people according to a destiny and grants each thing a value, a rank, a time and characteristics which suit it according to wisdom"
+        "desc": "The One who brings forward whomever He wills, according to His wisdom, and gives everything its place and time."
       },
       "fr": {
-        "meaning": "Celui qui précède tous",
+        "meaning": "Celui qui fait avancer",
         "desc": "Est Celui qui est exempt des caractéristiques des créatures et meilleur que toute créature ; Celui qui fixe la vitesse des événements, accélère certaines choses aux yeux des gens selon une destinée et accorde à chaque chose une valeur, un rang, une époque et des caractéristiques qui Lui conviennent selon la sagesse"
       },
       "ur": {
@@ -1284,13 +1284,13 @@
       "number": 72,
       "name": "ٱلْمُؤَخِّرُ",
       "transliteration": "Al-Muʾakhkhir",
-      "found": "(71:4)",
+      "found": "(14:42)(71:4)",
       "en": {
         "meaning": "The Delayer, The Postponer",
-        "desc": "Is He who is free from the characteristics of creatures and better than any creature; The One who intends the slowness of events and slows down certain things in the eyes of people according to a destiny and grants each thing a value, a rank, a time and characteristics which suit it according to a wisdom (cf no 71)"
+        "desc": "The One who holds back and delays whomever and whatever He wills, according to His wisdom."
       },
       "fr": {
-        "meaning": "Celui qui sera après tous",
+        "meaning": "Celui qui retarde",
         "desc": "Est Celui qui est exempt des caractéristiques des créatures et meilleur que toute créature ; Celui qui destine la lenteur des événements et ralentit certaines choses aux yeux des gens selon une destinée et accorde à chaque chose une valeur, un rang, une époque et des caractéristiques qui lui conviennent selon une sagesse (cf no 71)"
       },
       "ur": {
@@ -1305,7 +1305,7 @@
       "found": "(57:3)",
       "en": {
         "meaning": "The First, The Pre-Existing",
-        "desc": "The First: Is the One who exists without creatures, without beginning and without time; One who is exempt from being created, from the appearance of a new attribute and from change, One who exists without coming into existence"
+        "desc": "The First, who has always existed without a beginning; nothing existed before Him."
       },
       "fr": {
         "meaning": "Le Premier",
@@ -1323,7 +1323,7 @@
       "found": "(57:3)",
       "en": {
         "meaning": "The Last, The Ever-Remaining",
-        "desc": "The Last: Is the One who exists without interruption while the creatures are annihilated at every moment; He who is eternal, He who annihilates and is exempt from being annihilated and the disappearance of one or more attributes; The One who exists without being concerned by the notion of end and annihilation"
+        "desc": "The Last, who will remain forever when everything else has perished."
       },
       "fr": {
         "meaning": "Le Dernier",
@@ -1341,7 +1341,7 @@
       "found": "(57:3)",
       "en": {
         "meaning": "The Manifest, The Highest",
-        "desc": "Is the One whose existence is manifested in everything by proofs, from the point of view of power and domination and not what would be present in any body from the point of view of place, image and how"
+        "desc": "The One whose existence is manifest in everything through His signs and proofs, and who is above all things."
       },
       "fr": {
         "meaning": "L'Apparent",
@@ -1359,7 +1359,7 @@
       "found": "(57:3)",
       "en": {
         "meaning": "The Hidden One, Knower of the Hidden",
-        "desc": "Is the One who is preserved from the delusions of creatures attempting to attribute to the Creator human characteristics or characteristics of creatures and the One who creates the characteristics of creatures and their images"
+        "desc": "The One whose essence the mind cannot grasp, and who knows everything that is hidden."
       },
       "fr": {
         "meaning": "Le Caché",
@@ -1374,10 +1374,10 @@
       "number": 77,
       "name": "ٱلْوَالِي",
       "transliteration": "Al-Wālī",
-      "found": "(13:11)(22:7)",
+      "found": "(13:11)",
       "en": {
         "meaning": "The Sole Governor",
-        "desc": "Is the One who owns, manages and controls all things and the One who creates everything according to wisdom"
+        "desc": "The One who owns, manages and governs all things, and runs every affair with wisdom."
       },
       "fr": {
         "meaning": "Le Monarque",
@@ -1395,10 +1395,10 @@
       "found": "(13:9)",
       "en": {
         "meaning": "The Self-Exalted",
-        "desc": "Is the One who is free from the attributes of creatures and the One whose power over creatures is boundless"
+        "desc": "The One who is exalted far above all the attributes of His creation, and whose authority is boundless."
       },
       "fr": {
-        "meaning": "Le Sublime",
+        "meaning": "Le Transcendant",
         "desc": "Est Celui qui est exempt des attributs des créatures et Celui dont le pouvoir sur les créatures est sans borne"
       },
       "ur": {
@@ -1413,7 +1413,7 @@
       "found": "(52:28)",
       "en": {
         "meaning": "The Source of All Goodness",
-        "desc": "Is the One who has the ability to bestow faith and blessings on all creatures, and among them some are grateful and some are not: the former are called Muslims or believers and others are called non-Muslims or non-Muslims. -believers"
+        "desc": "The Source of all goodness and kindness, who showers His blessings on all of His creation."
       },
       "fr": {
         "meaning": "Le Bienfaisant",
@@ -1426,12 +1426,12 @@
     },
     {
       "number": 80,
-      "name": "ٱلتَّوَابُ",
+      "name": "ٱلتَّوَّابُ",
       "transliteration": "At-Tawwāb",
       "found": "(2:128)(4:64)(49:12)(110:3)",
       "en": {
         "meaning": "The Accepter of Repentance, The Ever-Relenting",
-        "desc": "Is the One who grants forgiveness to those who repent every time they repent"
+        "desc": "The One who accepts the repentance of His servant whenever he repents, and forgives him."
       },
       "fr": {
         "meaning": "L'Accueillant au repentir",
@@ -1449,7 +1449,7 @@
       "found": "(32:22)(43:41)(44:16)",
       "en": {
         "meaning": "The Avenger",
-        "desc": "Is the One who justly punishes the disobedient and the oppressors"
+        "desc": "The One who justly brings retribution upon the disobedient and the oppressors."
       },
       "fr": {
         "meaning": "Le Vengeur",
@@ -1463,11 +1463,11 @@
     {
       "number": 82,
       "name": "ٱلْعَفُوُّ",
-      "transliteration": "Al-ʿAfūw",
+      "transliteration": "Al-ʿAfuww",
       "found": "(4:99)(4:149)(22:60)",
       "en": {
         "meaning": "The Pardoner",
-        "desc": "Is the One who sets aside and forgives sin and the One who preserves in every seemingly hopeless situation a door to honor, maintenance and blessings or to immediate repentance"
+        "desc": "The One who erases sins and pardons."
       },
       "fr": {
         "meaning": "Le Très Indulgent",
@@ -1485,7 +1485,7 @@
       "found": "(3:30)(9:117)(57:9)(59:10)",
       "en": {
         "meaning": "The Most Kind",
-        "desc": "Is the One who can offer an immensity of benefits without counterpart and without necessity"
+        "desc": "The One who is most kind and compassionate, and grants countless blessings without asking anything in return."
       },
       "fr": {
         "meaning": "Le Bienveillant",
@@ -1503,7 +1503,7 @@
       "found": "(3:26)",
       "en": {
         "meaning": "Master of the Dominion, Owner of the Kingdom",
-        "desc": "Is the One who creates and attributes according to a destiny all sovereignty, domination, property and all broad power which are granted to certain creatures in this lower world"
+        "desc": "The Owner of all sovereignty, who gives kingship to whomever He wills and takes it from whomever He wills."
       },
       "fr": {
         "meaning": "Le Maître du Pouvoir",
@@ -1517,14 +1517,14 @@
     {
       "number": 85,
       "name": "ذُو ٱلْجَلَالِ وَٱلْإِكْرَامِ",
-      "transliteration": "Dhū al-Jalāli wa’l-Ikrām",
+      "transliteration": "Dhū al-Jalāli wa-l-Ikrām",
       "found": "(55:27)(55:78)",
       "en": {
         "meaning": "Possessor of Glory and Honour",
-        "desc": "That is, Allah is the One who is better than any other in reality and all the evidence confirms this and denies the contrary so it is not valid to dispute this point, to deny it or to be hostile against this subject; is the One who fills with blessings those who will have understood this who will know the general holiness, will have success and will be well guided on the Day of Judgment"
+        "desc": "The Possessor of majesty and glory, of honour and generosity, who bestows abundant blessings on His servants."
       },
       "fr": {
-        "meaning": "Le Plein de Majesté et de Magnificience",
+        "meaning": "Le Plein de Majesté et de Magnificence",
         "desc": "C’est-à-dire qu'Allah est Celui qui est meilleur que tout autre en réalité et toutes les preuves confirment cela et infirment le contraire donc il n’est pas valable de contester ce point, de le renier ou d’être hostile à l’encontre de ce sujet ; est Celui qui comble de bienfaits ceux qui auront compris cela qui connaîtront la sainteté générale, auront la réussite et seront bien guidés au Jour du Jugement"
       },
       "ur": {
@@ -1536,10 +1536,10 @@
       "number": 86,
       "name": "ٱلْمُقْسِطُ",
       "transliteration": "Al-Muqsiṭ",
-      "found": "(7:29)(3:18)",
+      "found": "(3:18)(7:29)",
       "en": {
         "meaning": "The Just One",
-        "desc": "Is the One who judges according to the greatest justice, the One who is free from all forms of injustice and tyranny, and the One who has absolutely no accountability"
+        "desc": "The One who judges with perfect fairness, and is free from all injustice and wrongdoing."
       },
       "fr": {
         "meaning": "L'Equitable",
@@ -1557,7 +1557,7 @@
       "found": "(3:9)",
       "en": {
         "meaning": "The Gatherer, the Uniter",
-        "desc": "Is the One who gathers creatures together on a day of which there is no doubt, the Day of Judgment"
+        "desc": "The One who will gather all of creation on the Day of Resurrection, a Day about which there is no doubt."
       },
       "fr": {
         "meaning": "Le Rassembleur",
@@ -1575,7 +1575,7 @@
       "found": "(3:97)(39:7)(47:38)(57:24)",
       "en": {
         "meaning": "The Self-Sufficient, The Free of All Need",
-        "desc": "Is the One who has no need of creatures and whose creatures cannot do without al-Ghaniyy [who is the One who makes them exist and keeps them in existence and constantly changes them]"
+        "desc": "The One who needs nothing from His creation, while all of His creation needs Him."
       },
       "fr": {
         "meaning": "Le Riche",
@@ -1588,12 +1588,12 @@
     },
     {
       "number": 89,
-      "name": "ٱلْمُغْنِيُ",
+      "name": "ٱلْمُغْنِي",
       "transliteration": "Al-Mughnī",
-      "found": "(9:28)",
+      "found": "(9:28)(53:48)",
       "en": {
         "meaning": "The Enricher",
-        "desc": "Is the One who satisfies the needs of creatures and the One who brings them their sustenance"
+        "desc": "The One who fulfils the needs of His creation and makes them self-sufficient."
       },
       "fr": {
         "meaning": "Celui qui enrichit",
@@ -1611,7 +1611,7 @@
       "found": "(67:21)",
       "en": {
         "meaning": "The Withholder",
-        "desc": "Is the One who intends for each creature his victories, his protections and the One from whom they must always be preserved according to a destiny"
+        "desc": "The One who withholds whatever He wills, according to His wisdom, and protects His servants from harm."
       },
       "fr": {
         "meaning": "Le Défenseur",
@@ -1629,7 +1629,7 @@
       "found": "(6:17)",
       "en": {
         "meaning": "The Creator of Harm",
-        "desc": "Is the One who is almighty to bring inevitably the nuisance which must reach a creature according to a destiny"
+        "desc": "The One who alone has the power to bring harm, by His decree; no harm can reach anyone except by His command."
       },
       "fr": {
         "meaning": "Celui qui peut nuire",
@@ -1644,10 +1644,10 @@
       "number": 92,
       "name": "ٱلنَّافِعُ",
       "transliteration": "An-Nāfiʿ",
-      "found": "(30:37)",
+      "found": "(48:11)",
       "en": {
         "meaning": "The Propitious, The Benefactor",
-        "desc": "Is the One who is almighty to bring inevitably the profit that a creature must receive according to a destiny"
+        "desc": "The One who brings benefit, by His decree; every good comes from Him."
       },
       "fr": {
         "meaning": "L'Utile",
@@ -1665,7 +1665,7 @@
       "found": "(24:35)",
       "en": {
         "meaning": "The Light",
-        "desc": "The Light: Is the One who guides to their goal those who are prey to temptation and puts them in the right direction according to a destiny; Allah is the One who guides believers to the light of faith, creates light and is not a light that is only a creature"
+        "desc": "The Light of the heavens and the earth, who guides the believers to the light of faith."
       },
       "fr": {
         "meaning": "La Lumière",
@@ -1680,10 +1680,10 @@
       "number": 94,
       "name": "ٱلْهَادِي",
       "transliteration": "Al-Hādī",
-      "found": "(25:31)",
+      "found": "(22:54)(25:31)",
       "en": {
         "meaning": "The Guide",
-        "desc": "Is the One who intends for certain creatures the benefit of being well guided and of knowing righteousness"
+        "desc": "The One who guides; He shows the straight path to whomever He wills."
       },
       "fr": {
         "meaning": "Le Guide",
@@ -1701,10 +1701,10 @@
       "found": "(2:117)(6:101)",
       "en": {
         "meaning": "The Incomparable Originator",
-        "desc": "Is the One who brings creatures and this world into existence, not from pre-existing matter or in the image of an earlier model, but on the contrary without precursor, model and unprecedented"
+        "desc": "The One who brings creation and the universe into being in a wondrous way, without any matter or earlier model."
       },
       "fr": {
-        "meaning": "L'inventeur",
+        "meaning": "L'Inventeur",
         "desc": "Est Celui qui fait exister les créatures et ce monde, non pas à partir d’une matière préexistante ou à l’image d’un modèle antérieur, mais au contraire sans précurseur, sans modèle et sans précédent"
       },
       "ur": {
@@ -1716,10 +1716,10 @@
       "number": 96,
       "name": "ٱلْبَاقِي",
       "transliteration": "Al-Bāqī",
-      "found": "(55:27)",
+      "found": "(28:60)(55:27)",
       "en": {
         "meaning": "The Ever-Lasting",
-        "desc": "Is the One whose existence free from annihilation and change is imposed on sound reason which cannot claim the contrary"
+        "desc": "The Everlasting, who is subject neither to perishing nor to change."
       },
       "fr": {
         "meaning": "Le Permanent",
@@ -1737,7 +1737,7 @@
       "found": "(15:23)",
       "en": {
         "meaning": "The Inheritor",
-        "desc": "Is the One who exists and does not change as creatures are wiped out"
+        "desc": "The One who remains after everything else has perished, and is the true Inheritor of all things."
       },
       "fr": {
         "meaning": "L'Héritier",
@@ -1752,10 +1752,10 @@
       "number": 98,
       "name": "ٱلرَّشِيدُ",
       "transliteration": "Ar-Rashīd",
-      "found": "(2:256)",
+      "found": "(2:256)(72:10)",
       "en": {
         "meaning": "The Guide to the Right Path",
-        "desc": "Is the One who guides creatures to what is in their best interests"
+        "desc": "The One who guides His creation to what is right and good for them; everything He does is right and wise."
       },
       "fr": {
         "meaning": "Celui qui agit avec droiture",
@@ -1770,10 +1770,10 @@
       "number": 99,
       "name": "ٱلصَّبُورُ",
       "transliteration": "Aṣ-Ṣabūr",
-      "found": "(2:153)(3:200)(103:3)",
+      "found": "(2:153)(3:200)(16:127)(103:3)",
       "en": {
         "meaning": "The Patient",
-        "desc": "Is the One who delays the punishment of sinners by adjusting the accounts of each until a definite day and gives them their ease and time until a time of which they all do not know the date."
+        "desc": "The One who is most patient; He does not hasten to punish the disobedient, but gives them respite until an appointed time."
       },
       "fr": {
         "meaning": "Le Patient",
