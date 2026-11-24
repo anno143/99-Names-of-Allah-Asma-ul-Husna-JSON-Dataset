@@ -125,12 +125,13 @@ This repo builds on [KabDeveloper/99-Names-Of-Allah](https://github.com/KabDevel
 - Corrected French meanings that were wrong or repeated (#20, #21, #59, #63, #64, #69, #71, #72, #78) and typos (#62, #85, #95)
 - Rewrote all 99 English descriptions (`en.desc`) in clear, consistent English, matching the Urdu descriptions
 - Checked every Quran reference against the Quran text ([Tanzil](https://tanzil.net)); replaced references that did not mention the name or its root (#22, #41, #57, #71, #77, #92) and added verses where the name itself appears (#23, #28, #94); references are sorted by surah
+- Second review (see [REVIEW.md](REVIEW.md)): added verses where the name itself appears (#19, #34, #43, #48, #55, #60, #66, #87, #97 and others), replaced references that were not about Allah (#96, #98, #99), and fixed French mistranslations (#23 "L'Éleveur", #39, #45, #51, #82, #90), English spelling and meaning consistency (#8, #24, #45, #64, #68, #87), and the duplicate Urdu meaning of #29/#86
 
 ## A Note on the List
 
 The number ninety-nine is established in Sahih al-Bukhari (6410) and Sahih Muslim (2677). The commonly printed enumerated list traces to Jami' at-Tirmidhi (3507), and other scholars have compiled slightly different lists. Meanings here are translations to aid understanding and are not a substitute for tafsir or scholarly explanation.
 
-Every reference in `found` has been checked: each verse contains either the name itself or a word from the same root used for Allah's action (e.g. يَقْبِضُ for Al-Qābiḍ). Some names (e.g. Al-Qābiḍ, Al-Khāfiḍ, Al-Jalīl, Aṣ-Ṣabūr) do not occur word for word in the Quran and come from the hadith list, so their references point to the root.
+Every reference in `found` has been checked. Each verse contains the name itself or a word from the same root used for Allah's action (e.g. يَقْبِضُ for Al-Qābiḍ), with the exceptions noted below. Some names (e.g. Al-Qābiḍ, Al-Khāfiḍ, Al-Jalīl, Aṣ-Ṣabūr) do not occur word for word in the Quran and come from the hadith list, so their references point to the root. For three names there is no verse where Allah is the subject of the root, so their references carry the meaning instead: Al-Khāfiḍ (95:5), Al-Māniʿ (35:2, 67:21) and Aṣ-Ṣabūr (16:61, 35:45). [REVIEW.md](REVIEW.md) has a table showing, for each name, whether the name itself appears in the Quran, plus hadith references for the names known from the hadith.
 
 ## Contributing
 
